@@ -469,11 +469,11 @@ button{
     padding-left: 12%;
     padding-top: 4%;
     display: flex;
-    gap: 20%; 
+    gap: 15%; 
 }
 .sec9b{
     display: flex;
-    gap: 30%;
+    gap: 20%;
 }
 .sec9a,.sec9b a{
     text-decoration: none;
@@ -631,8 +631,9 @@ button{
     }
     .article9{
       flex-direction: column;
+      gap: 8%;
     }
     .sec9b{
       gap: 7%;
-      margin-left: 27%;
+      margin-left: 1%;
     } } 
