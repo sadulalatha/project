@@ -519,26 +519,26 @@ button {
     right: 0;
   }
   .h_p {
-    padding-top: 30px;
-    font-size: 35px;
+    padding-top: 35px;
+    font-size: 20px;
   }
   .h_h {
     margin-top: 10px;
-    font-size: 67px;
+    font-size: 40px;
   }
   .sidenav {
     display: none;
   }
   .article1 {
     /*height: 230vh;*/
-    height: 140vh;
+    height: 160vh;
   }
   .sec1 {
     display: none;
   }
   .part4 {
     flex-direction: column;
-    padding-top: 15%;
+    padding-top: 5%;
     padding-left: 26%;
   }
   .article2 {
